@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discodfivemapi": "^1.1.1",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^13.6.0",
+    "fivem-api": "^1.5.0",
+    "fivem-server-api": "^1.1.2"
+  }
+}

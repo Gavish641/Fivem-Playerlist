@@ -1,0 +1,8 @@
+{
+    "discordID":"discord server id",
+    "footer":"Developed By Gavish",
+    "serverIP":"fivem ip server",
+    "serverColor":"#82ffb9",
+    "playerlistChannel":"channel",
+    "playerlistMessage":"message id"
+}
